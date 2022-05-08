@@ -72,5 +72,5 @@ variable to be under different name, create a new custom variable that uses a
 template to reference the original:
 
 ```
-DATABASE_URL = ${{ MYSQL_URL }}
+DATABASE_URL = ${{ MYSQL_URL }} 
 ```
